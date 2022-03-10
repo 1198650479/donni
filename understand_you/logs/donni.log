@@ -1,0 +1,2116 @@
+INFO 2022-02-21 20:31:02,187 autoreload 643 Watching for file changes with StatReloader
+INFO 2022-02-21 20:31:05,552 basehttp 179 "GET / HTTP/1.1" 200 10697
+INFO 2022-02-21 20:31:05,609 basehttp 179 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-02-21 20:31:05,773 basehttp 179 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-02-21 20:31:05,775 basehttp 179 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-02-21 20:31:05,775 basehttp 179 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+WARNING 2022-02-21 20:31:06,095 log 225 Not Found: /favicon.ico
+WARNING 2022-02-21 20:31:06,096 basehttp 179 "GET /favicon.ico HTTP/1.1" 404 2118
+INFO 2022-02-22 17:16:20,235 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:17:01,704 autoreload 250 G:\donni\understand_you\understand_you\urls.py changed, reloading.
+INFO 2022-02-22 17:17:02,906 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:17:19,589 autoreload 250 G:\donni\understand_you\apps\users\urls.py changed, reloading.
+INFO 2022-02-22 17:17:20,761 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:17:35,318 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-02-22 17:17:36,439 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:18:05,478 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:18:06,599 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:21:04,715 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:21:56,419 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:21:57,541 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:26:50,448 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:31:48,362 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:31:49,479 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:32:00,090 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:32:01,206 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:32:16,960 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:32:18,091 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:34:13,658 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:34:14,806 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:38:28,388 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:38:29,692 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:39:48,348 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:40:37,358 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:42:06,339 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:43:37,828 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:43:42,246 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:46:50,072 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:46:51,365 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:58:27,142 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 17:58:28,435 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 17:59:27,318 basehttp 161 "GET /register HTTP/1.1" 301 0
+WARNING 2022-02-22 17:59:27,419 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-02-22 17:59:27,420 log 224 Method Not Allowed: /register/
+WARNING 2022-02-22 17:59:27,422 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+INFO 2022-02-22 18:01:35,398 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-02-22 18:01:36,736 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 18:04:24,859 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-02-22 18:04:26,033 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 18:05:40,491 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-02-22 18:05:41,715 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 18:06:26,294 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-02-22 18:06:27,627 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-22 18:12:28,562 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-02-22 18:12:29,785 autoreload 636 Watching for file changes with StatReloader
+WARNING 2022-02-22 20:06:46,323 log 224 Not Found: /
+WARNING 2022-02-22 20:06:46,325 basehttp 161 "GET / HTTP/1.1" 404 2405
+WARNING 2022-02-22 20:06:46,611 log 224 Not Found: /favicon.ico
+WARNING 2022-02-22 20:06:46,613 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2456
+INFO 2022-02-22 20:45:46,995 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-02-23 08:09:38,232 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 08:38:08,610 autoreload 636 Watching for file changes with StatReloader
+WARNING 2022-03-07 08:38:13,908 log 224 Not Found: /
+WARNING 2022-03-07 08:38:13,912 basehttp 161 "GET / HTTP/1.1" 404 2405
+WARNING 2022-03-07 08:38:14,247 log 224 Not Found: /favicon.ico
+WARNING 2022-03-07 08:38:14,250 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2456
+WARNING 2022-03-07 08:38:28,523 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:28,524 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:28,525 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:31,532 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:31,534 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:31,536 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:32,171 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:32,171 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:32,172 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:32,431 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:32,431 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:32,432 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:32,605 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:32,606 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:32,611 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:32,780 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:32,781 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:32,783 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:32,947 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:32,948 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:32,954 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:33,103 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:33,104 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:33,105 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:33,278 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:33,279 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:33,280 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:33,446 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:33,447 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:33,448 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+INFO 2022-03-07 08:38:36,733 basehttp 161 "GET /register HTTP/1.1" 301 0
+WARNING 2022-03-07 08:38:36,741 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:36,742 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:36,742 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:40,963 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:38:40,963 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:38:40,964 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:38:46,031 log 224 Not Found: /
+WARNING 2022-03-07 08:38:46,032 basehttp 161 "GET / HTTP/1.1" 404 2405
+INFO 2022-03-07 08:38:58,284 basehttp 161 "GET /admin HTTP/1.1" 301 0
+INFO 2022-03-07 08:38:58,360 basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-03-07 08:38:58,509 basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2214
+INFO 2022-03-07 08:38:58,579 basehttp 161 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2022-03-07 08:38:58,588 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-03-07 08:38:58,588 basehttp 161 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+INFO 2022-03-07 08:38:58,602 basehttp 161 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO 2022-03-07 08:38:58,615 basehttp 161 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+INFO 2022-03-07 08:38:58,627 basehttp 161 "GET /static/admin/css/login.css HTTP/1.1" 200 939
+INFO 2022-03-07 08:38:58,678 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-03-07 08:38:58,732 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2022-03-07 08:39:32,202 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:39:32,203 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:39:32,204 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+INFO 2022-03-07 08:40:33,536 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 08:40:34,754 autoreload 636 Watching for file changes with StatReloader
+WARNING 2022-03-07 08:40:35,129 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:35,130 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:35,131 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:41,919 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:41,920 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:41,921 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:42,847 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:42,848 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:42,850 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:43,410 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:43,413 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:43,417 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:43,871 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:43,872 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:43,873 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:45,989 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:45,990 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:45,992 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:46,440 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:46,441 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:46,442 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:46,670 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:46,671 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:46,672 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:46,857 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:46,858 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:46,859 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:47,038 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:47,039 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:47,042 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+WARNING 2022-03-07 08:40:47,248 base 101 Method Not Allowed (GET): /register/
+WARNING 2022-03-07 08:40:47,248 log 224 Method Not Allowed: /register/
+WARNING 2022-03-07 08:40:47,250 basehttp 161 "GET /register/ HTTP/1.1" 405 0
+INFO 2022-03-07 08:48:15,328 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 08:48:16,533 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-07 09:04:38,324 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 37, in post
+    json_dict = json.loads(json_str)
+  File "D:\Miniconda3\envs\py_django\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\Miniconda3\envs\py_django\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Miniconda3\envs\py_django\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2022-03-07 09:04:38,329 basehttp 161 "POST /register/ HTTP/1.1" 500 89149
+ERROR 2022-03-07 09:04:58,082 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 37, in post
+    json_dict = json.loads(json_str)
+  File "D:\Miniconda3\envs\py_django\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\Miniconda3\envs\py_django\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Miniconda3\envs\py_django\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2022-03-07 09:04:58,086 basehttp 161 "POST /register/ HTTP/1.1" 500 89149
+INFO 2022-03-07 09:08:28,855 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 09:08:28,926 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\middleware\clickjacking.py", line 33, in process_response
+    response.headers['X-Frame-Options'] = self.get_xframe_options_value(
+AttributeError: 'dict' object has no attribute 'headers'
+ERROR 2022-03-07 09:08:28,931 basehttp 161 "POST /register/ HTTP/1.1" 500 67336
+INFO 2022-03-07 09:09:55,683 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 09:09:56,840 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:10:52,056 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 09:10:52,108 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\middleware\clickjacking.py", line 33, in process_response
+    response.headers['X-Frame-Options'] = self.get_xframe_options_value(
+AttributeError: 'dict' object has no attribute 'headers'
+ERROR 2022-03-07 09:10:52,111 basehttp 161 "POST /register/ HTTP/1.1" 500 67336
+INFO 2022-03-07 09:11:18,676 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 09:11:19,778 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:11:46,898 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 09:11:48,064 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:11:50,004 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 09:11:50,050 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\middleware\clickjacking.py", line 33, in process_response
+    response.headers['X-Frame-Options'] = self.get_xframe_options_value(
+AttributeError: 'dict' object has no attribute 'headers'
+ERROR 2022-03-07 09:11:50,053 basehttp 161 "POST /register/ HTTP/1.1" 500 67336
+INFO 2022-03-07 09:14:49,893 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 09:14:51,182 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:16:12,901 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 09:16:14,119 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:16:14,808 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2022-03-07 09:16:14,818 basehttp 161 "POST /register/ HTTP/1.1" 200 93
+INFO 2022-03-07 09:16:41,766 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2022-03-07 09:16:41,772 basehttp 161 "POST /register/ HTTP/1.1" 200 93
+INFO 2022-03-07 09:25:36,783 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:25:37,983 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:38:03,559 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:38:04,903 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:38:32,902 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:38:33,995 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:39:08,140 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:39:09,309 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:41:12,133 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:41:13,363 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:41:43,421 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:41:44,622 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:41:57,306 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:41:58,480 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:42:09,026 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:42:10,179 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:43:51,104 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 09:43:52,227 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 09:47:25,206 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 09:47:26,290 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:21:52,089 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:21:53,332 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:22:56,389 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:22:57,573 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:25:50,681 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:25:51,826 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:31:03,715 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:31:04,809 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:32:45,539 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:32:46,707 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:33:32,440 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:33:33,548 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:34:12,799 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:34:13,907 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:34:35,657 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 10:34:36,735 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:38:18,446 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 10:38:19,555 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:41:07,918 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 10:41:09,016 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:43:04,812 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 10:43:05,876 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:46:11,859 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 10:46:13,086 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:46:30,834 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2022-03-07 10:46:30,858 basehttp 161 "POST /register/ HTTP/1.1" 200 17
+INFO 2022-03-07 10:46:34,714 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2022-03-07 10:46:34,723 basehttp 161 "POST /register/ HTTP/1.1" 200 63
+INFO 2022-03-07 10:53:49,348 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 10:53:50,616 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 10:56:55,570 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 10:56:56,719 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 11:00:46,606 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 11:00:47,669 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 11:14:48,208 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 11:14:49,401 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 11:19:53,874 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 11:19:55,001 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 11:35:35,007 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 11:35:35,024 basehttp 161 "POST /login/ HTTP/1.1" 200 64
+INFO 2022-03-07 11:36:46,128 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 11:36:46,329 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 49, in post
+    user = User.objects.create(mobile=mobile, password=password)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 453, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+ERROR 2022-03-07 11:36:46,340 basehttp 161 "POST /register/ HTTP/1.1" 500 212519
+INFO 2022-03-07 11:37:47,551 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 11:37:47,625 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 49, in post
+    user = User.objects.create(mobile=mobile, password=password)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 453, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+ERROR 2022-03-07 11:37:47,630 basehttp 161 "POST /register/ HTTP/1.1" 500 212519
+INFO 2022-03-07 11:38:03,845 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 11:38:03,920 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 49, in post
+    user = User.objects.create(mobile=mobile, password=password)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 453, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+ERROR 2022-03-07 11:38:03,927 basehttp 161 "POST /register/ HTTP/1.1" 500 212519
+INFO 2022-03-07 11:48:00,542 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 11:48:01,814 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 11:48:09,124 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 11:48:09,211 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 49, in post
+    user = User.objects.create(mobile=mobile, password=password)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 453, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user.username'")
+ERROR 2022-03-07 11:48:09,221 basehttp 161 "POST /register/ HTTP/1.1" 500 212812
+INFO 2022-03-07 14:45:06,094 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 14:45:12,080 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 14:50:23,268 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 14:50:24,505 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 14:51:01,852 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 14:51:03,105 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 14:59:08,984 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 14:59:10,169 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:02:25,927 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 15:02:27,126 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:03:53,081 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:03:54,381 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:05:47,026 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:05:47,577 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'donni.user' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 46, in post
+    if User.objects.filter(mobile=mobile):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 284, in __bool__
+    self._fetch_all()
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'donni.user' doesn't exist")
+ERROR 2022-03-07 15:05:47,590 basehttp 161 "POST /register/ HTTP/1.1" 500 168897
+INFO 2022-03-07 15:07:11,395 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 15:07:12,729 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:07:14,025 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:07:14,271 basehttp 161 "POST /register/ HTTP/1.1" 200 17
+INFO 2022-03-07 15:08:06,602 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:08:06,615 basehttp 161 "POST /login/ HTTP/1.1" 200 64
+INFO 2022-03-07 15:09:05,840 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:09:05,853 basehttp 161 "POST /login/ HTTP/1.1" 200 64
+INFO 2022-03-07 15:09:06,020 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:09:07,201 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:09:38,169 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:09:38,224 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 28, in post
+    print(User.objects.filter(mobile=mobile).password)
+AttributeError: 'QuerySet' object has no attribute 'password'
+ERROR 2022-03-07 15:09:38,228 basehttp 161 "POST /login/ HTTP/1.1" 500 78272
+INFO 2022-03-07 15:10:09,691 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:10:11,086 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:10:11,379 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:10:11,403 basehttp 161 "POST /login/ HTTP/1.1" 200 64
+INFO 2022-03-07 15:10:33,169 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:10:34,548 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:10:35,814 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:10:35,838 basehttp 161 "POST /login/ HTTP/1.1" 200 64
+INFO 2022-03-07 15:11:54,821 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:11:54,835 basehttp 161 "POST /login/ HTTP/1.1" 200 56
+INFO 2022-03-07 15:12:19,192 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:12:20,426 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:13:21,555 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:13:22,711 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:13:25,697 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:13:25,821 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 30, in post
+    login(request, user={mobile, password})
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\__init__.py", line 129, in login
+    request.session[SESSION_KEY] = user._meta.pk.value_to_string(user)
+AttributeError: 'set' object has no attribute '_meta'
+ERROR 2022-03-07 15:13:25,825 basehttp 161 "POST /login/ HTTP/1.1" 500 83133
+INFO 2022-03-07 15:13:43,851 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:13:45,034 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:13:48,136 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:13:48,218 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 30, in post
+    login(request, mobile)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\__init__.py", line 129, in login
+    request.session[SESSION_KEY] = user._meta.pk.value_to_string(user)
+AttributeError: 'str' object has no attribute '_meta'
+ERROR 2022-03-07 15:13:48,221 basehttp 161 "POST /login/ HTTP/1.1" 500 83075
+INFO 2022-03-07 15:14:10,312 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:14:11,524 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:14:33,601 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:14:34,790 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:18:17,958 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:18:19,339 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:18:34,935 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:18:35,030 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 33, in post
+    login(request, user)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\__init__.py", line 129, in login
+    request.session[SESSION_KEY] = user._meta.pk.value_to_string(user)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute '_meta'
+ERROR 2022-03-07 15:18:35,035 basehttp 161 "POST /login/ HTTP/1.1" 500 87220
+INFO 2022-03-07 15:18:50,799 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:18:52,004 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:19:48,106 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:19:49,442 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:19:54,948 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:19:55,017 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 33, in post
+    login(request, user)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\__init__.py", line 129, in login
+    request.session[SESSION_KEY] = user._meta.pk.value_to_string(user)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute '_meta'
+ERROR 2022-03-07 15:19:55,023 basehttp 161 "POST /login/ HTTP/1.1" 500 87222
+INFO 2022-03-07 15:20:16,838 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:20:18,101 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:30:55,264 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:30:55,331 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 35, in post
+    login(request, user)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\__init__.py", line 129, in login
+    request.session[SESSION_KEY] = user._meta.pk.value_to_string(user)
+AttributeError: 'set' object has no attribute '_meta'
+ERROR 2022-03-07 15:30:55,338 basehttp 161 "POST /login/ HTTP/1.1" 500 83139
+INFO 2022-03-07 15:31:19,199 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:31:20,489 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:35:06,340 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:35:07,507 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:35:16,397 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:35:16,418 basehttp 161 "POST /login/ HTTP/1.1" 200 81
+INFO 2022-03-07 15:35:45,133 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:35:46,433 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:35:56,639 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:35:56,876 basehttp 161 "POST /login/ HTTP/1.1" 200 81
+INFO 2022-03-07 15:36:21,974 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:36:23,186 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:36:23,559 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:36:23,589 basehttp 161 "POST /login/ HTTP/1.1" 200 81
+INFO 2022-03-07 15:37:27,418 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:37:28,531 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:37:34,618 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:37:34,641 basehttp 161 "POST /login/ HTTP/1.1" 200 81
+INFO 2022-03-07 15:43:11,557 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:43:12,756 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:43:31,001 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:43:31,069 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 34, in post
+    login(request, user)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\__init__.py", line 129, in login
+    request.session[SESSION_KEY] = user._meta.pk.value_to_string(user)
+AttributeError: 'set' object has no attribute '_meta'
+ERROR 2022-03-07 15:43:31,074 basehttp 161 "POST /login/ HTTP/1.1" 500 83181
+INFO 2022-03-07 15:45:49,190 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:45:50,424 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:46:35,145 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:46:36,793 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:47:34,280 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+ERROR 2022-03-07 15:47:34,648 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.DataError: (1406, "Data too long for column 'password' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 55, in post
+    user = User.objects.create_user(mobile=mobile, password=password, username=mobile)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\models.py", line 152, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\models.py", line 146, in _create_user
+    user.save(using=self._db)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.DataError: (1406, "Data too long for column 'password' at row 1")
+ERROR 2022-03-07 15:47:34,661 basehttp 161 "POST /register/ HTTP/1.1" 500 215933
+INFO 2022-03-07 15:48:13,345 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-07 15:48:14,569 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:48:35,058 basehttp 161 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:48:35,287 basehttp 161 "POST /register/ HTTP/1.1" 200 17
+INFO 2022-03-07 15:48:53,680 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:48:53,690 basehttp 161 "POST /login/ HTTP/1.1" 200 64
+INFO 2022-03-07 15:49:29,468 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:49:30,681 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:49:30,959 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:49:31,207 basehttp 161 "POST /login/ HTTP/1.1" 200 56
+INFO 2022-03-07 15:50:15,426 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:50:16,726 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:52:26,890 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:52:28,159 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:54:06,415 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 15:54:07,664 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 15:54:23,309 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:54:23,493 basehttp 161 "POST /login/ HTTP/1.1" 200 27
+INFO 2022-03-07 15:55:20,116 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 15:55:20,297 basehttp 161 "POST /login/ HTTP/1.1" 200 27
+INFO 2022-03-07 16:05:28,699 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:05:28,881 basehttp 161 "POST /login/ HTTP/1.1" 200 27
+INFO 2022-03-07 16:05:46,112 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 16:05:47,303 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 16:05:47,554 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:05:47,752 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 16:06:30,325 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:06:30,494 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 16:07:47,099 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:07:47,275 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 16:09:51,106 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:09:51,283 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 16:10:41,025 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:10:41,192 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 16:17:14,349 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 16:17:14,547 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:50,476 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:50,672 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:52,430 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:52,611 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:53,310 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:53,480 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:53,500 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:53,676 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:53,693 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:53,881 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:53,886 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,064 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,066 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:54,234 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:54,257 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,402 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:54,463 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,581 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,620 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:54,799 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:54,800 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,967 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:54,993 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:55,168 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:55,362 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:55,530 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:55,617 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:55,788 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:56,135 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:56,309 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:56,660 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:56,832 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:04:57,230 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:04:57,396 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:05:22,491 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:05:22,658 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:05:36,349 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:05:36,507 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:15:16,591 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:15:16,770 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:16:04,358 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-07 17:16:05,818 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 17:16:06,150 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:16:06,345 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:17:12,967 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:17:13,150 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:26:26,953 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:26:27,164 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:27:14,061 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:27:14,276 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:42:49,665 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:42:49,839 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 17:44:38,952 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-07 17:44:39,123 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-07 20:05:07,526 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-03-07 20:05:08,875 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 20:58:25,399 autoreload 250 G:\donni\understand_you\apps\articles\apps.py changed, reloading.
+INFO 2022-03-07 20:58:26,535 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 20:58:56,588 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 20:58:57,878 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 20:59:57,034 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 20:59:58,187 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 21:06:27,318 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 21:06:28,525 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 21:07:20,278 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 21:07:21,420 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 21:07:34,087 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 21:07:35,392 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 21:08:51,863 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 21:08:53,013 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-07 21:10:18,700 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-07 21:10:19,829 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:15:47,583 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:18:16,558 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:18:17,758 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:18:37,528 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:18:38,640 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:19:59,898 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:20:00,986 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:20:15,657 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:20:16,761 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:20:34,532 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:20:35,604 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:22:11,672 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:22:12,926 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:23:02,745 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:23:03,900 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:23:13,493 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:23:14,551 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:26:46,114 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:26:47,202 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:31:39,697 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:31:40,823 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:31:54,509 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:31:55,605 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:32:22,589 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:32:23,669 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 08:32:42,493 autoreload 250 G:\donni\understand_you\apps\articles\models.py changed, reloading.
+INFO 2022-03-08 08:32:43,616 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:17:59,468 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:18:05,136 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-08 09:18:05,465 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+ERROR 2022-03-08 09:18:05,696 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 43, in get
+    json_dict = json.loads(json_str)
+  File "D:\Miniconda3\envs\py_django\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "D:\Miniconda3\envs\py_django\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Miniconda3\envs\py_django\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2022-03-08 09:18:05,701 basehttp 161 "GET /user_info/ HTTP/1.1" 500 89056
+INFO 2022-03-08 09:26:03,661 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:26:04,779 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:26:26,813 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:26:27,950 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:33:36,431 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:33:37,827 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:34:18,350 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:34:19,520 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:45:11,635 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-08 09:45:11,816 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+ERROR 2022-03-08 09:45:14,047 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:45:14,050 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81119
+ERROR 2022-03-08 09:49:39,120 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:49:39,124 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81119
+ERROR 2022-03-08 09:49:46,969 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:49:46,973 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81119
+ERROR 2022-03-08 09:49:47,926 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:49:47,930 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81119
+ERROR 2022-03-08 09:50:48,655 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:50:48,660 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81119
+INFO 2022-03-08 09:51:40,764 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:51:41,971 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-08 09:52:05,771 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 68, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:52:05,775 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81088
+INFO 2022-03-08 09:52:22,791 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:52:23,930 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-08 09:52:46,018 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 09:52:47,382 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-08 09:52:51,244 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 65, in get
+    print(request.user.mobile)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 09:52:51,249 basehttp 161 "GET /user_info/ HTTP/1.1" 500 80975
+INFO 2022-03-08 11:30:27,998 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-08 11:41:51,246 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 65, in get
+    print(request.user.mobile)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 11:41:51,260 basehttp 161 "GET /user_info/ HTTP/1.1" 500 80975
+INFO 2022-03-08 11:44:55,170 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-08 11:44:59,674 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-08 11:45:01,108 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 68, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-08 11:45:01,113 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81089
+INFO 2022-03-09 08:16:05,370 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:16:55,238 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 68, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-09 08:16:55,251 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81315
+ERROR 2022-03-09 08:19:35,379 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 68, in get
+    'mobile': request.user.mobile,
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'mobile'
+ERROR 2022-03-09 08:19:35,381 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81089
+INFO 2022-03-09 08:23:59,641 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:24:01,026 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:24:01,487 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 65, in get
+    print(request.User.username)
+AttributeError: 'WSGIRequest' object has no attribute 'User'
+ERROR 2022-03-09 08:24:01,490 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77077
+INFO 2022-03-09 08:24:20,959 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:24:22,175 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:24:22,505 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 83, in get
+    return JsonResponse({'code': 0, 'message': 'ok', 'data': user_info})
+NameError: name 'user_info' is not defined
+ERROR 2022-03-09 08:24:22,505 basehttp 161 "GET /user_info/ HTTP/1.1" 500 76257
+INFO 2022-03-09 08:24:42,072 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:24:43,269 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:24:43,548 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:27:45,576 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:27:46,926 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:27:47,319 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:28:10,949 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:28:12,073 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:28:12,364 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    print(User.username.value())
+AttributeError: 'DeferredAttribute' object has no attribute 'value'
+ERROR 2022-03-09 08:28:12,364 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77167
+INFO 2022-03-09 08:28:23,703 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:28:24,908 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:28:25,311 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 66, in get
+    print(User.username.text)
+AttributeError: 'DeferredAttribute' object has no attribute 'text'
+ERROR 2022-03-09 08:28:25,311 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77157
+INFO 2022-03-09 08:28:32,539 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:28:33,867 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:28:34,113 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:31:51,093 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:31:52,686 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:34:22,627 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:34:23,649 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:34:24,953 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:35:02,120 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:35:03,215 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:35:03,519 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 71, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 08:35:03,519 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77612
+INFO 2022-03-09 08:35:34,390 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:35:35,632 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:35:36,234 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 71, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 08:35:36,234 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77606
+INFO 2022-03-09 08:38:41,872 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:38:43,117 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:38:44,915 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:39:21,747 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:39:23,148 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:39:23,437 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:39:46,960 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 08:39:47,174 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:39:49,329 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:40:16,092 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:40:17,240 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:40:17,629 basehttp 161 "GET /user_info/ HTTP/1.1" 200 28
+INFO 2022-03-09 08:42:26,538 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 08:42:27,467 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:46:36,463 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:46:37,544 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:46:54,350 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:46:55,263 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:46:57,896 basehttp 161 "GET /user_info/ HTTP/1.1" 200 57
+INFO 2022-03-09 08:47:21,548 basehttp 161 "GET /user_info/ HTTP/1.1" 200 57
+INFO 2022-03-09 08:48:05,912 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:48:07,357 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:48:07,559 basehttp 161 "GET /user_info/ HTTP/1.1" 200 57
+INFO 2022-03-09 08:48:40,680 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:48:41,995 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:48:42,227 basehttp 161 "GET /user_info/ HTTP/1.1" 200 57
+INFO 2022-03-09 08:52:25,235 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:52:26,202 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:52:34,353 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+ERROR 2022-03-09 08:52:34,569 log 224 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 37, in post
+    print(request.COOKIES['username'])
+KeyError: 'username'
+ERROR 2022-03-09 08:52:34,573 basehttp 161 "POST /login/ HTTP/1.1" 500 78560
+INFO 2022-03-09 08:54:09,796 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:54:10,748 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:54:28,601 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:54:29,530 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 08:54:32,602 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 08:54:32,778 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+ERROR 2022-03-09 08:55:24,708 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 67, in get
+    print(request.COOKIES['username'])
+KeyError: 'username'
+ERROR 2022-03-09 08:55:24,710 basehttp 161 "GET /user_info/ HTTP/1.1" 500 76782
+INFO 2022-03-09 08:56:06,990 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 08:56:07,978 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 08:56:09,304 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 78, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 08:56:09,309 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77626
+INFO 2022-03-09 09:10:25,705 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 09:10:25,886 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 09:11:08,151 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 09:11:08,326 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 09:28:00,278 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 09:28:01,209 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 09:28:15,091 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 09:28:15,272 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 09:34:25,112 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 09:34:25,292 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 09:35:46,335 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-03-09 09:40:24,775 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 09:41:31,482 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 09:41:31,670 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 10:21:11,045 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 10:21:11,988 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 10:23:38,610 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 10:23:38,610 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77626
+ERROR 2022-03-09 11:34:24,986 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 11:34:24,986 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77626
+ERROR 2022-03-09 11:34:30,888 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 11:34:30,895 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77626
+INFO 2022-03-09 11:34:38,036 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 11:34:38,217 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+ERROR 2022-03-09 11:34:46,181 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 11:34:46,185 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77626
+INFO 2022-03-09 11:43:12,610 autoreload 250 G:\donni\understand_you\understand_you\settings.py changed, reloading.
+INFO 2022-03-09 11:43:13,604 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 11:43:30,309 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 11:43:30,314 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77626
+INFO 2022-03-09 11:43:47,529 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 11:43:47,720 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 11:45:20,314 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 11:45:21,396 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 11:50:03,418 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 11:50:04,478 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 11:50:17,068 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 11:50:17,279 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 11:51:01,852 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 11:51:02,818 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 11:51:18,391 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 11:51:19,357 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 11:51:30,446 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 11:51:30,629 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 11:52:37,297 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 11:52:38,322 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 11:52:50,078 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 11:52:50,278 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 11:53:32,511 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 11:53:33,510 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 11:53:39,203 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 11:53:39,387 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+ERROR 2022-03-09 11:54:20,301 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 11:54:20,307 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78278
+INFO 2022-03-09 20:03:26,387 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:10:43,671 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 20:10:43,674 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78278
+INFO 2022-03-09 20:11:31,522 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:11:32,552 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:11:33,781 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 20:11:33,847 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78276
+INFO 2022-03-09 20:11:50,574 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:11:51,938 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:11:52,361 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 20:11:52,367 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78282
+INFO 2022-03-09 20:12:09,836 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:12:11,008 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:13:11,737 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:13:13,462 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:13:17,990 basehttp 161 "GET /user_info/ HTTP/1.1" 200 63
+INFO 2022-03-09 20:13:53,200 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:13:54,445 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:13:54,630 basehttp 161 "GET /user_info/ HTTP/1.1" 200 63
+INFO 2022-03-09 20:14:49,120 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:14:50,209 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:14:50,959 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(User.objects.moblie)
+AttributeError: 'UserManager' object has no attribute 'moblie'
+ERROR 2022-03-09 20:14:50,978 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78125
+INFO 2022-03-09 20:15:16,526 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:15:18,054 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:15:18,378 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(User.objects.username)
+AttributeError: 'UserManager' object has no attribute 'username'
+ERROR 2022-03-09 20:15:18,384 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78137
+INFO 2022-03-09 20:15:29,883 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:15:31,452 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:15:31,865 basehttp 161 "GET /user_info/ HTTP/1.1" 200 63
+INFO 2022-03-09 20:16:09,193 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:16:11,309 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:16:18,054 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:16:20,259 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:16:20,794 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(login_user_info.mobile)
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 20:16:20,798 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78141
+INFO 2022-03-09 20:16:35,537 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:16:38,176 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:16:38,511 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    'mobile': login_user_info.mobile,
+AttributeError: 'QuerySet' object has no attribute 'mobile'
+ERROR 2022-03-09 20:16:38,518 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78276
+INFO 2022-03-09 20:16:49,247 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:16:51,462 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:17:08,519 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:18:56,296 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:18:58,932 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:18:59,512 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 77, in get
+    print(key, 'corresponds to', login_user_info[key])
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 290, in __getitem__
+    raise TypeError(
+TypeError: QuerySet indices must be integers or slices, not User.
+ERROR 2022-03-09 20:18:59,518 basehttp 161 "GET /user_info/ HTTP/1.1" 500 82297
+INFO 2022-03-09 20:21:50,414 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:21:52,821 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:21:53,271 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(login_user_info['username'])
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 290, in __getitem__
+    raise TypeError(
+TypeError: QuerySet indices must be integers or slices, not str.
+ERROR 2022-03-09 20:21:53,276 basehttp 161 "GET /user_info/ HTTP/1.1" 500 82053
+INFO 2022-03-09 20:22:22,611 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:22:25,050 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:22:25,560 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(login_user_info[1])
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 318, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+ERROR 2022-03-09 20:22:25,566 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81834
+INFO 2022-03-09 20:22:49,735 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:22:52,350 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:22:52,696 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:25:01,634 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:25:03,836 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:25:04,512 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(login_user_info[0][0])
+TypeError: 'User' object is not subscriptable
+ERROR 2022-03-09 20:25:04,518 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78069
+INFO 2022-03-09 20:25:19,421 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:25:21,541 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:25:35,149 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:27:10,255 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:27:13,207 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:27:13,664 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:27:32,564 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:27:34,989 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:27:35,330 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(User[0])
+TypeError: 'ModelBase' object is not subscriptable
+ERROR 2022-03-09 20:27:35,330 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78061
+INFO 2022-03-09 20:27:55,543 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:27:58,083 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:28:03,481 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:28:25,006 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:28:26,994 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:29:33,138 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:29:35,624 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:29:52,526 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:29:54,571 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:30:00,035 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:30:44,633 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:30:46,836 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:30:54,379 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:46:45,817 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:46:47,806 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:51:02,123 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:51:04,729 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:51:11,937 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:55:46,060 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:55:49,414 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:55:50,384 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 20:57:34,120 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:57:36,569 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 20:57:36,800 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    for key, value in login_user_info:
+TypeError: cannot unpack non-iterable User object
+ERROR 2022-03-09 20:57:36,882 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77994
+INFO 2022-03-09 20:58:49,564 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 20:58:52,092 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 20:58:53,422 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:01:21,864 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:01:24,549 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:01:24,978 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:01:33,363 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:04:39,169 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:04:40,980 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:04:45,617 basehttp 161 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2022-03-09 21:04:45,933 basehttp 161 "POST /login/ HTTP/1.1" 200 28
+INFO 2022-03-09 21:05:19,474 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:05:22,373 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:05:22,826 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:05:24,098 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:05:48,103 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:06:48,509 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:06:53,427 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:07:29,061 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:07:31,768 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 21:07:32,337 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 75, in get
+    print(value)
+TypeError: __str__ returned non-string (type User)
+ERROR 2022-03-09 21:07:32,343 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78315
+INFO 2022-03-09 21:08:21,523 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:08:23,771 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 21:08:28,670 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 75, in get
+    print(value)
+TypeError: __str__ returned non-string (type int)
+ERROR 2022-03-09 21:08:28,675 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78309
+INFO 2022-03-09 21:09:07,585 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:09:09,964 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:09:12,105 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:12:49,132 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:12:52,907 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:12:58,697 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:13:02,723 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:13:39,004 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:13:41,222 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:13:41,720 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:14:36,355 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:14:38,751 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 21:14:39,280 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(login_user_info)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 259, in __repr__
+    return '<%s %r>' % (self.__class__.__name__, data)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\base.py", line 521, in __repr__
+    return '<%s: %s>' % (self.__class__.__name__, self)
+TypeError: __str__ returned non-string (type tuple)
+ERROR 2022-03-09 21:14:39,287 basehttp 161 "GET /user_info/ HTTP/1.1" 500 85545
+INFO 2022-03-09 21:16:09,372 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:16:11,950 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:16:12,324 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:16:19,759 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:16:35,727 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:16:38,487 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:16:43,761 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:17:01,313 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:17:03,758 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:17:04,100 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:17:08,646 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:17:39,959 autoreload 250 G:\donni\understand_you\apps\users\models.py changed, reloading.
+INFO 2022-03-09 21:17:41,919 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:18:17,152 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:18:19,775 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:18:20,181 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:18:25,363 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:18:45,604 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:18:48,353 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:18:48,843 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:19:04,616 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:19:07,036 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:19:11,562 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-09 21:19:39,350 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:19:41,903 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 21:19:42,272 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(type(login_user_info.value()))
+AttributeError: 'QuerySet' object has no attribute 'value'
+ERROR 2022-03-09 21:19:42,272 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78173
+INFO 2022-03-09 21:19:50,866 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:19:53,565 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-09 21:19:53,919 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(type(login_user_info.value))
+AttributeError: 'QuerySet' object has no attribute 'value'
+ERROR 2022-03-09 21:19:53,928 basehttp 161 "GET /user_info/ HTTP/1.1" 500 78169
+INFO 2022-03-09 21:20:07,738 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:20:10,319 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:20:22,433 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-09 21:20:24,816 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-09 21:20:28,156 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:13:21,048 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:17:25,405 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:18:41,480 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:18:43,321 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:18:43,761 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:23:48,832 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:23:50,378 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:23:55,283 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:28:11,423 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:28:13,350 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:28:14,959 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:28:41,861 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:28:43,457 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-10 08:28:44,166 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 72, in get
+    login_user_info = User.objects.filter(mobile=login_user).username
+AttributeError: 'QuerySet' object has no attribute 'username'
+ERROR 2022-03-10 08:28:44,170 basehttp 161 "GET /user_info/ HTTP/1.1" 500 77894
+INFO 2022-03-10 08:29:05,580 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:29:07,046 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-10 08:29:07,389 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 72, in get
+    login_user_info = User.objects.filter(mobile=login_user)['username']
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 290, in __getitem__
+    raise TypeError(
+TypeError: QuerySet indices must be integers or slices, not str.
+ERROR 2022-03-10 08:29:07,389 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81792
+INFO 2022-03-10 08:29:42,746 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:29:44,531 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-10 08:29:44,829 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 72, in get
+    login_user_info = User.objects.filter(mobile=login_user)[1]
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 318, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+ERROR 2022-03-10 08:29:44,837 basehttp 161 "GET /user_info/ HTTP/1.1" 500 81573
+INFO 2022-03-10 08:29:52,253 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:29:53,903 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:29:54,168 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:33:07,805 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:33:09,043 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:33:19,846 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:34:14,915 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:34:16,673 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:34:17,040 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:34:36,704 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:34:38,102 autoreload 636 Watching for file changes with StatReloader
+ERROR 2022-03-10 08:34:38,417 log 224 Internal Server Error: /user_info/
+Traceback (most recent call last):
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "G:\donni\understand_you\apps\users\views.py", line 74, in get
+    print(login_user_info.values("user_head")["user_head"])
+  File "D:\Miniconda3\envs\py_django\lib\site-packages\django\db\models\query.py", line 290, in __getitem__
+    raise TypeError(
+TypeError: QuerySet indices must be integers or slices, not str.
+ERROR 2022-03-10 08:34:38,426 basehttp 161 "GET /user_info/ HTTP/1.1" 500 82239
+INFO 2022-03-10 08:34:47,879 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:34:49,705 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:34:50,071 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:35:09,752 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:35:11,471 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:35:11,951 basehttp 161 "GET /user_info/ HTTP/1.1" 200 40
+INFO 2022-03-10 08:35:49,138 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:35:50,326 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:37:58,906 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:38:00,105 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:38:57,368 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:38:59,186 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:38:59,656 basehttp 161 "GET /user_info/ HTTP/1.1" 200 171
+INFO 2022-03-10 08:41:23,520 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 08:41:25,239 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 08:41:25,569 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 08:43:56,996 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:37:16,962 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:38:28,939 autoreload 250 G:\donni\understand_you\apps\users\views.py changed, reloading.
+INFO 2022-03-10 10:38:30,237 autoreload 636 Watching for file changes with StatReloader
+INFO 2022-03-10 10:39:59,181 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:40:51,027 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:41:05,258 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:41:17,681 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:41:22,003 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:41:25,374 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:42:08,632 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:45:55,721 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:48:34,848 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:51:45,646 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:52:33,366 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:54:16,823 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:54:18,303 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:54:22,757 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:54:29,854 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:55:22,205 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:57:33,111 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:57:38,146 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:57:40,256 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:57:46,286 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:57:48,203 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:57:50,636 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:58:56,670 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:59:02,340 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:59:12,081 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:59:24,676 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 10:59:52,742 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 11:19:07,280 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 11:22:33,589 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 11:42:14,425 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534
+INFO 2022-03-10 11:42:50,332 basehttp 161 "GET /user_info/ HTTP/1.1" 200 534

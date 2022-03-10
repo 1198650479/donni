@@ -13,7 +13,7 @@
     <option name="namespacePackageFolders">
       <list>
         <option value="$MODULE_DIR$/understand_you/static" />
-        <option value="$MODULE_DIR$/understand_you/log" />
+        <option value="$MODULE_DIR$/understand_you/logs" />
       </list>
     </option>
   </component>
