@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wolwkarp321(slwl8dsw4_(a@(hi4m^=t@7fi)0iia_@byg_k+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'apps.users',
-    'apps.articles'
+    'apps.articles',
+    'apps.comments',
 ]
 
 MIDDLEWARE = [
@@ -199,6 +200,8 @@ AUTH_USER_MODEL = 'users.User'
 # CORS
 CORS_ORIGIN_WHITELIST = (
     'http://127.0.0.1:8080',
+    'http://127.0.0.1:8000',
+    'http://localhost:8000',
     'http://localhost:8080',
     'http://www.donni.com:8080',
     'http://www.donni.com:8000'
@@ -208,3 +211,5 @@ CORS_ALLOW_CREDENTIALS = True
 
 SESSION_COOKIE_SAMESITE = 'None'
 SESSION_COOKIE_SECURE = True
+
+DATA_UPLOAD_MAX_MEMORY_SIZE = 10485760    # 设置为最大10M
