@@ -15,10 +15,10 @@ class User(AbstractUser):
     interest = models.CharField(max_length=30, blank=True, verbose_name=u'兴趣')
     personal_signature = models.CharField(max_length=100, default=u'为了爱与和平~', verbose_name=u'个性签名')
     address = models.CharField(max_length=50, null=True, verbose_name=u'地址')
-    user_fans_num = models.FloatField(default=0, verbose_name=u'粉丝数')
-    follow_num = models.FloatField(default=0, verbose_name=u'关注数')
-    user_collection = models.FloatField(default=0, verbose_name=u'用户收藏数')
-    browsing_history = models.FloatField(default=0, verbose_name=u'浏览历史数')
+    user_fans_num = models.PositiveIntegerField(default=0, verbose_name=u'粉丝数')
+    follow_num = models.PositiveIntegerField(default=0, verbose_name=u'关注数')
+    user_collection = models.PositiveIntegerField(default=0, verbose_name=u'用户收藏数')
+    browsing_history = models.PositiveIntegerField(default=0, verbose_name=u'浏览历史数')
 
     class Meta:
         db_table = 'tb_user'

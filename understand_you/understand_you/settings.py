@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'apps.users',
     'apps.articles',
     'apps.comments',
+    'channels'
 ]
 
 MIDDLEWARE = [
@@ -75,6 +76,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'understand_you.wsgi.application'
 
+ASGI_APPLICATION = 'understand_you.asgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
@@ -108,6 +110,16 @@ CACHES = {
         }
     },
 }
+
+# CHANNEL_LAYERS = {
+#     'default': {
+#         'BACKEND': 'channels_redis.core.RedisChannelLayer',
+#         'CONFIG': {
+#             "hosts": [('127.0.0.1', 6379)], # 你的redis地址和端口
+#         },
+#     },
+# }
+
 SESSION_ENGINE = "django.contrib.sessions.backends.cache"
 SESSION_CACHE_ALIAS = "session"
 
@@ -213,3 +225,9 @@ SESSION_COOKIE_SAMESITE = 'None'
 SESSION_COOKIE_SECURE = True
 
 DATA_UPLOAD_MAX_MEMORY_SIZE = 10485760    # 设置为最大10M
+
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "channels.layers.InMemoryChannelLayer",
+    }
+}

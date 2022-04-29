@@ -1,5 +1,6 @@
 import json
 
+from django.db.models import Q
 from django.http import JsonResponse
 from django.shortcuts import render
 
@@ -73,7 +74,7 @@ class ArticleViews(View):
             else:
                 user_like_article = False
 
-            # 登录用户对文章的点赞状态
+            # 登录用户对文章作者的关注状态
             if UserFollow.objects.filter(user_id=user_id, follow_user_id=value.user_id):
                 user_follow = UserFollow.objects.filter(user_id=user_id, follow_user_id=value.user_id).values("is_follow")[0]["is_follow"]
             else:
@@ -113,14 +114,43 @@ class SearchViews(View):
         # 获取搜索的关键词
         json_bytes = request.body
         search_keyword = json_bytes.decode()
+
+        # 用于存储所有符合字段的列表
+        search_list = []
         # 获取文章标题包含搜索关键词的字段
-        article_title = Article.objects.filter(article_title__icontains=search_keyword)
-        # 用于存储包含字段的列表
+        article_title = Article.objects.filter(article_title__icontains=search_keyword).order_by('-article_uptime')
+        # 用于存储包含字段文章的列表
         article_list = []
         for i in range(len(article_title)):
-            print(article_title.values("article_title")[i]["article_title"])
+            article_list.append({
+                'article_id': article_title.values("article_id")[i]["article_id"],
+                'article_title': article_title.values("article_title")[i]["article_title"]
+            })
+        # 将获取到的文章列表存入搜索列表中
+        search_list.append(article_list)
+
+        # 获取用户信息包含搜索关键词的字段
+        user_name = User.objects.filter(Q(user_name__icontains=search_keyword) | Q(mobile__icontains=search_keyword))
+        # 用于存储包含字段用户的列表
+        user_list = []
+        for i in range(len(user_name)):
+            user_list.append({
+                'user_id': user_name.values("user_id")[i]["user_id"],
+                'user_name': user_name.values("user_name")[i]["user_name"],
+                'mobile': user_name.values("mobile")[i]["mobile"]
+            })
+        # 将获取到的好友列表存入搜索列表中
+        search_list.append(user_list)
+
+        # 用于存储包含字段商品的列表
+        goods_list = []
+        # 将获取到的商品列表存入搜索列表中
+        search_list.append(goods_list)
+
+        print(search_list)
 
         return JsonResponse({
             'code': 0,
-            'message': 'ok'
+            'message': 'ok',
+            'data': search_list
         })
